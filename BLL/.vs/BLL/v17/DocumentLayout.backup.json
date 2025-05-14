@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labid\\source\\repos\\p\\BLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\voitureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\voitureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\infosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\infosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\infosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\infosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\infosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\infosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\motoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\motoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\motoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\motoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\motoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\motoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\voitureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\voitureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|c:\\users\\labid\\source\\repos\\p\\bll\\bll\\voitureform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B791541B-FC61-4AAC-8BD2-8043752DA71E}|BLL\\BLL.csproj|solutionrelative:bll\\voitureform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MotoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\MotoForm.Designer.cs",
+              "RelativeDocumentMoniker": "BLL\\MotoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\MotoForm.Designer.cs",
+              "RelativeToolTip": "BLL\\MotoForm.Designer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:38:38.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MotoForm.cs",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\MotoForm.cs",
+              "RelativeDocumentMoniker": "BLL\\MotoForm.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\MotoForm.cs",
+              "RelativeToolTip": "BLL\\MotoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:38:35.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MotoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\MotoForm.cs",
+              "RelativeDocumentMoniker": "BLL\\MotoForm.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\MotoForm.cs [Design]",
+              "RelativeToolTip": "BLL\\MotoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:38:27.858Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InfosForm.cs",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\InfosForm.cs",
+              "RelativeDocumentMoniker": "BLL\\InfosForm.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\InfosForm.cs",
+              "RelativeToolTip": "BLL\\InfosForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:10:44.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfosForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\InfosForm.Designer.cs",
+              "RelativeDocumentMoniker": "BLL\\InfosForm.Designer.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\InfosForm.Designer.cs",
+              "RelativeToolTip": "BLL\\InfosForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:11:03.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InfosForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\InfosForm.cs",
+              "RelativeDocumentMoniker": "BLL\\InfosForm.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\InfosForm.cs [Design]",
+              "RelativeToolTip": "BLL\\InfosForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:10:36.477Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VoitureForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\VoitureForm.Designer.cs",
+              "RelativeDocumentMoniker": "BLL\\VoitureForm.Designer.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\VoitureForm.Designer.cs",
+              "RelativeToolTip": "BLL\\VoitureForm.Designer.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:54:37.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoitureForm.cs",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\VoitureForm.cs",
+              "RelativeDocumentMoniker": "BLL\\VoitureForm.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\VoitureForm.cs",
+              "RelativeToolTip": "BLL\\VoitureForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:53:38.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VoitureForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\VoitureForm.cs",
+              "RelativeDocumentMoniker": "BLL\\VoitureForm.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\VoitureForm.cs [Design]",
+              "RelativeToolTip": "BLL\\VoitureForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:53:35.795Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BLL\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Form1.Designer.cs",
+              "RelativeToolTip": "BLL\\Form1.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:41:58.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Garage.cs",
+              "RelativeDocumentMoniker": "BLL\\Garage.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Garage.cs",
+              "RelativeToolTip": "BLL\\Garage.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:44:54.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Moto.cs",
+              "RelativeDocumentMoniker": "BLL\\Moto.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Moto.cs",
+              "RelativeToolTip": "BLL\\Moto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:44:32.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Voiture.cs",
+              "RelativeDocumentMoniker": "BLL\\Voiture.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Voiture.cs",
+              "RelativeToolTip": "BLL\\Voiture.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:44:12.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Automobile.cs",
+              "RelativeDocumentMoniker": "BLL\\Automobile.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Automobile.cs",
+              "RelativeToolTip": "BLL\\Automobile.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:43:38.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Form1.cs",
+              "RelativeDocumentMoniker": "BLL\\Form1.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Form1.cs [Design]*",
+              "RelativeToolTip": "BLL\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:38:25.54Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Form1.cs",
+              "RelativeDocumentMoniker": "BLL\\Form1.cs",
+              "ToolTip": "C:\\Users\\labid\\source\\repos\\p\\BLL\\BLL\\Form1.cs*",
+              "RelativeToolTip": "BLL\\Form1.cs*",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwE0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T16:41:42.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

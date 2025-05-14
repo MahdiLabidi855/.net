@@ -1,0 +1,10 @@
+C:\Users\labid\source\repos\p\BLL\BLL\bin\Debug\BLL.exe.config
+C:\Users\labid\source\repos\p\BLL\BLL\bin\Debug\BLL.exe
+C:\Users\labid\source\repos\p\BLL\BLL\bin\Debug\BLL.pdb
+C:\Users\labid\source\repos\p\BLL\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\labid\source\repos\p\BLL\BLL\obj\Debug\BLL.InfosForm.resources
+C:\Users\labid\source\repos\p\BLL\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\labid\source\repos\p\BLL\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\labid\source\repos\p\BLL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\labid\source\repos\p\BLL\BLL\obj\Debug\BLL.exe
+C:\Users\labid\source\repos\p\BLL\BLL\obj\Debug\BLL.pdb
